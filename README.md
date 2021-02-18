@@ -1,5 +1,6 @@
 # python-api-challenge
 UofM Bootcamp - Python API Homework - What's the Weather Like?
+
 Part I - WeatherPy
 The WeatherPy notebook includes Python script to visualize the weather of 500+ cities across the world, at varying distances from the equator. In order to do this, I used a simple Python library, the OpenWeatherMap API, and a some common sense to create a representative model of weather across world cities.
 
